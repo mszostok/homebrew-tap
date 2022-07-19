@@ -7,7 +7,6 @@ This is a [Tap](https://docs.brew.sh/Taps) containing [Homebrew](http://brew.sh/
 
 ## Available Tools
 
-| tool      | install                             |
-|-----------|-------------------------------------|
-| `gimme`    | brew install mszostok/tap/gimme    |
-| `codeowners-validator` | brew install mszostok/tap/codeowners-validator |
+| tool                   | install                                          |
+|------------------------|--------------------------------------------------|
+| `codeowners-validator` | `brew install mszostok/tap/codeowners-validator` |
