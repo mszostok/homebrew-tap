@@ -5,7 +5,7 @@
 class CodeownersValidator < Formula
   desc "Ensures the correctness of your CODEOWNERS file."
   homepage "https://github.com/mszostok/codeowners-validator"
-  version "0.7.5-rc1"
+  version "0.7.4"
   license "Apache License 2.0"
 
   on_macos do
